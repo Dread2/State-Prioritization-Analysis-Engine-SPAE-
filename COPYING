@@ -1,0 +1,20 @@
+The PDF Accelerated Extraction Engine (PAEE) is provided under:
+
+	SPDX-License-Identifier: GPL-2.0-only
+
+Being under the terms of the GNU General Public License version 2 only,
+according with:
+
+	LICENSES/preferred/GPL-2.0
+
+With an explicit exception, as stated at:
+
+	LICENSES/exceptions/commercial-use-note
+
+In addition, other licenses may also apply. Please see:
+
+	Documentation/process/license-rules.rst
+
+for more details.
+
+All contributions to PAEE are subject to this COPYING file.
